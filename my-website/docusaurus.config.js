@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Здесь будет документация',
+  title: 'Nadya`s docs',
+  tagline: 'In this site you can see technical documentation from technical writer Nadezhda Bilay.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -67,7 +67,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
